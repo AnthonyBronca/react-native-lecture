@@ -6,6 +6,12 @@ Create a new react-native application. For ease of use, we will use Expo
 `npx create-expo-app -t expo-template-blank-typescript`
 You can name the project 'mobile' if you are planning on also having a backend
 
+You can also run from the menu (my preferred way) running:
+
+`expo init`
+
+For this you will need the expo-cli installed globally, though.
+
 ## Project Set up:
 
 - components directory
